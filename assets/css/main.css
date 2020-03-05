@@ -2592,6 +2592,7 @@ input, select, textarea {
 			height: 2.75em;
 			line-height: 2.75em;
 			width: 2.75em;
+			color: gold;
 		}
 
 		.icon.major {

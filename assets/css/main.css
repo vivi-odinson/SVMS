@@ -2105,6 +2105,7 @@ input, select, textarea {
 		cursor: pointer;
 		display: inline-block;
 		font-weight: 400;
+		-webkit-transition-duration: 0.4s;
 		letter-spacing: 0.125em;
 		text-align: center;
 		text-decoration: none;
